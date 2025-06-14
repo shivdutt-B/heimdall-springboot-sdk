@@ -1,7 +1,31 @@
-<project>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
+         http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.shivdutt</groupId>
-  <artifactId>heimdall_springboot_sdk</artifactId>
+
+  <groupId>com.github.shivdutt-B</groupId> <!-- This must match your GitHub username -->
+  <artifactId>heimdall-springboot-sdk</artifactId> <!-- Use kebab-case for consistency -->
   <version>0.1.0</version>
-  <name>heimdall_springboot_sdk</name>
+  <name>Heimdall SpringBoot SDK</name>
+
+  <description>A lightweight SDK to integrate Heimdall pinging in Spring Boot apps</description>
+  <url>https://github.com/shivdutt-B/heimdall-springboot-sdk</url>
+
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://opensource.org/licenses/MIT</url>
+    </license>
+  </licenses>
+
+  <developers>
+    <developer>
+      <id>shivdutt</id>
+      <name>Shivdutt Bhadakwad</name>
+      <url>https://github.com/shivdutt-B</url>
+    </developer>
+  </developers>
+
 </project>
