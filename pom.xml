@@ -1,0 +1,7 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.shivdutt</groupId>
+  <artifactId>heimdall_springboot_sdk</artifactId>
+  <version>0.1.0</version>
+  <name>heimdall_springboot_sdk</name>
+</project>
